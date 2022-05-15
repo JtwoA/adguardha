@@ -1,0 +1,10 @@
+[Adblock Home via Home Assistant]
+! Title: J2A Allowlist
+! Version: 19January2022v1-Alpha
+! Expires: n/a
+! Description: Home exceptions
+! Homepage: https://github.com/JtwoA/adguardha
+
+! Checker Plus
+! This should allow verification connection to Gmail
+@@ jasonsavard.com/
