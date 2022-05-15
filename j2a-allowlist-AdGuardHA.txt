@@ -7,4 +7,4 @@
 
 ! Checker Plus
 ! This should allow verification connection to Gmail
-@@ jasonsavard.com/
+@@ jasonsavard.com
