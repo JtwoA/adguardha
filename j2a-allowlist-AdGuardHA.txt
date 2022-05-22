@@ -5,8 +5,6 @@
 ! Description: Home exceptions
 ! Homepage: https://github.com/JtwoA/adguardha
 
-! Checker Plus
-! This should allow verification connection to Gmail
-@@jasonsavard.com
 ||azr0peqctrlst01.blackbaud.global
 ||azr0peqctrlst01.blackbaud.com
+||_ldap._tcp.sc1._sites.dc._msdcs.blackbaud.global
